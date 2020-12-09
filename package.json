@@ -1,0 +1,16 @@
+{
+	"name": "7Shifts-technical-interview-string-calculator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"add": "ts-node main.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ts-node": "^9.1.1",
+		"typescript": "^4.1.2"
+	}
+}
